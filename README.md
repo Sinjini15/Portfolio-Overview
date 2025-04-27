@@ -5,12 +5,12 @@ This portfolio highlights selected projects at the intersection of biomedical AI
 ## Featured Projects
 
 ### Resume Screener AI (Public)
-[GitHub Repo Link]([#](https://github.com/Sinjini15/resume-screener-ai))  
+[GitHub Repo Link](https://github.com/Sinjini15/resume-screener-ai)  
 Built a lightweight AI system for parsing, ranking, and screening resumes using NLP and machine learning. Integrated FastAPI for API deployment and Docker for containerization.  
 **Keywords:** NLP, FastAPI, Machine Learning, Docker, AWS-ready.
 
 ### Local LLM-based RAG System (Public)
-[GitHub Repo Link]([#](https://github.com/Sinjini15/local-llm-rag-pdf-qa))  
+[GitHub Repo Link](https://github.com/Sinjini15/local-llm-rag-pdf-qa)  
 Designed a retrieval-augmented generation (RAG) pipeline using FAISS and Hugging Face transformers for local document QA. Deployed system locally with Docker and efficient vector search.  
 **Keywords:** RAG, LLM, FAISS, Hugging Face, Docker.
 
