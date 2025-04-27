@@ -15,6 +15,7 @@ Designed a retrieval-augmented generation (RAG) pipeline using FAISS and Hugging
 **Keywords:** RAG, LLM, FAISS, Hugging Face, Docker.
 
 ### Learning the Chart of Nuclear Isotopes using GNNs (Private Summary)
+[GitHub Repo Link](https://github.com/Sinjini15/Nuclear-isotope-GNN)
 **Private Summary**  
 Designed and implemented GNN-based models for predicting physical properties of nuclear materials. Focused on graph message passing, attention mechanisms, and modeling spatial constraints.  
 **Keywords:** Graph Neural Networks, Scientific ML, PyTorch Geometric.
