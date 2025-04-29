@@ -4,6 +4,11 @@ This portfolio highlights selected projects at the intersection of biomedical AI
 
 ## Featured Projects
 
+### Histopathology Image Classification (Public)
+[GitHub Repo Link](https://github.com/Sinjini15/Histopathology-Image-Classifier)  
+Fine-tuned a pretrained CNN for tumor detection in histopathology images with full training, evaluation, interpretability (GradCAM), and production-ready deployment.  
+**Keywords:** Deep Learning, Histopathology, Image Classification, Transfer Learning, GradCAM.
+
 ### Resume Screener AI (Public)
 [GitHub Repo Link](https://github.com/Sinjini15/resume-screener-ai)  
 Built a lightweight AI system for parsing, ranking, and screening resumes using NLP and machine learning. Integrated FastAPI for API deployment and Docker for containerization.  
