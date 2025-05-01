@@ -8,7 +8,7 @@ title: Sinjini Mitra
 
 _Solving real-world problems with AI in GenAI, healthcare, scientific discovery, and document intelligence._
 
-[📄 Resume](https://your-resume-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [💻 GitHub](https://github.com/sinjini15) &nbsp;&nbsp;|&nbsp;&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/sinjini-mitra/) &nbsp;&nbsp;|&nbsp;&nbsp; [✉️ Email](mailto:sinjinimitra94@gmail.com)
+[📄 Resume](https://www.linkedin.com/in/sinjini-mitra/overlay/1745881260545/single-media-viewer/?profileId=ACoAAB5vaZ0BLGfMX87jalpXknO-eLCleHct-L8) &nbsp;&nbsp;|&nbsp;&nbsp; [💻 GitHub](https://github.com/sinjini15) &nbsp;&nbsp;|&nbsp;&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/sinjini-mitra/) &nbsp;&nbsp;|&nbsp;&nbsp; [✉️ Email](mailto:sinjinimitra94@gmail.com)
 
 <img src="Sinjini_pic.jpg" width="150" alt="Sinjini Mitra profile photo">
 
