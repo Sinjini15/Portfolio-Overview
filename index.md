@@ -20,21 +20,21 @@ _Solving real-world problems with AI in GenAI, healthcare, scientific discovery,
 ### 📄 Resume Screener AI  
 Semantic resume ranking engine using LLM-based embeddings and job description matching.  
 **Tags:** `#LLM` `#NLP` `#SemanticSearch` `#FastAPI`  
-**Links:** [GitHub](https://github.com/Sinjini15/resume-screener-ai) | [Demo Screenshot](link-to-screenshot.png)
+**Links:** [GitHub](https://github.com/Sinjini15/resume-screener-ai) 
 
 ---
 
 ### Histopathology Image Classification (Public)
 CNN pipeline for cancer detection on PatchCamelyon histopathology dataset with GradCAM visualizations.  
 **Tags:** `#ComputerVision` `#MedicalAI` `#GradCAM` `#PyTorch`  
-**Links:** [GitHub](https://github.com/Sinjini15/Histopathology-Image-Classifier) | [Screenshot](link-to-screenshot.png)
+**Links:** [GitHub](https://github.com/Sinjini15/Histopathology-Image-Classifier) 
 
 ---
 
 ### Local LLM-based RAG System (Public)
 Built a lightweight Retrieval-Augmented Generation system with local LLMs for document-based Q&A.  
 **Tags:** `#RAG` `#LLM` `#FAISS` `#LangChain`  
-**Links:** [GitHub](https://github.com/Sinjini15/local-llm-rag-pdf-qa) | [Diagram](link-to-architecture.png) | [Example](link-to-example-query.png)
+**Links:** [GitHub](https://github.com/Sinjini15/local-llm-rag-pdf-qa) 
 
 ---
 
@@ -49,6 +49,7 @@ Graph neural network models for structure-aware prediction of nuclear cross-sect
 **Private Summary**  
 Modeled spatiotemporal mobility patterns using graph-based deep learning techniques. Developed custom edge- and node-level feature transformations for predictive tasks.  
 **Keywords:** Mobility Prediction, Graph Neural Networks, Spatiotemporal Modeling.
+[arXiv](https://arxiv.org/pdf/2504.03119)
 
 ---
 
