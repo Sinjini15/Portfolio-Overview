@@ -48,7 +48,7 @@ Graph neural network models for structure-aware prediction of nuclear cross-sect
 ### Mobility Prediction Using Graph Neural Networks (Private Summary)
 **Private Summary**  
 Modeled spatiotemporal mobility patterns using graph-based deep learning techniques. Developed custom edge- and node-level feature transformations for predictive tasks.  
-**Keywords:** Mobility Prediction, Graph Neural Networks, Spatiotemporal Modeling.  
+**Tags:** `#Mobility Prediction`, `#Graph Neural Networks`, `#Spatiotemporal Modeling`.  
 **Links:** [arXiv](https://arxiv.org/pdf/2504.03119)
 
 ---
