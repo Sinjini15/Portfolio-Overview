@@ -27,7 +27,7 @@ Semantic resume ranking engine using LLM-based embeddings and job description ma
 ### Histopathology Image Classification (Public)
 CNN pipeline for cancer detection on PatchCamelyon histopathology dataset with GradCAM visualizations.  
 **Tags:** `#ComputerVision` `#MedicalAI` `#GradCAM` `#PyTorch`  
-**Links:** [GitHub](https://github.com/sinjini15/histopathology-cnn) | [Screenshot](link-to-screenshot.png)
+**Links:** [GitHub](https://github.com/Sinjini15/Histopathology-Image-Classifier) | [Screenshot](link-to-screenshot.png)
 
 ---
 
