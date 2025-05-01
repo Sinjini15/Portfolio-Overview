@@ -5,7 +5,7 @@ _Solving real-world problems with AI in GenAI, healthcare, scientific discovery,
 
 [📄 Resume](https://your-resume-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [💻 GitHub](https://github.com/sinjini15) &nbsp;&nbsp;|&nbsp;&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/sinjini-mitra/) &nbsp;&nbsp;|&nbsp;&nbsp; [✉️ Email](mailto:sinjinimitra94@gmail.com)
 
-<img src="Sinjini_pic.png" width="150" alt="Sinjini Mitra profile photo" style="border-radius: 50%;">
+![Sinjini Mitra profile photo](Sinjini_pic.png)
 
 ## 🔬 Projects
 
