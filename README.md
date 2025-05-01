@@ -1,5 +1,5 @@
 # Sinjini Mitra  
-**AI Researcher | ML Scientist | Biomedical Modeling**
+**AI Researcher | ML Scientist | Solving real-world problems using AI and a little bit of creativity**
 
 _Solving real-world problems with AI in healthcare, scientific discovery, and document intelligence._
 
