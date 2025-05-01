@@ -1,5 +1,5 @@
 # Sinjini Mitra  
-**AI Researcher | ML Scientist | Solving real-world problems using AI and a little bit of creativity**
+**AI Researcher | ML Scientist | Creative Thinker**
 
 _Solving real-world problems with AI in GenAI, healthcare, scientific discovery, and document intelligence._
 
