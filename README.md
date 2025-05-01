@@ -1,6 +1,9 @@
-# Sinjini Mitra – AI/ML Project Portfolio
+# Sinjini Mitra  
+**AI Researcher | ML Scientist | Biomedical Modeling**
 
-This portfolio highlights selected projects at the intersection of biomedical AI, scientific machine learning, and robust deep learning. It includes public repositories, private research summaries, and ongoing open-source efforts.
+_Solving real-world problems with AI in healthcare, scientific discovery, and document intelligence._
+
+[📄 Resume](https://your-resume-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [💻 GitHub](https://github.com/sinjini15) &nbsp;&nbsp;|&nbsp;&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/sinjini-mitra/) &nbsp;&nbsp;|&nbsp;&nbsp; [✉️ Email](mailto:sinjinimitra94@gmail.com)
 
 ## Featured Projects
 
