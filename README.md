@@ -34,7 +34,7 @@ Built a lightweight Retrieval-Augmented Generation system with local LLMs for do
 
 ### Learning the Chart of Nuclear Isotopes using GNNs (Private Summary)
 Graph neural network models for structure-aware prediction of nuclear cross-section data.  
-**Tags:** `#GNN` `#ScientificML` `#HeterogeneousGraphs` `#PyTorchGeometric` 
+**Tags:** `#GNN` `#ScientificML` `#HeterogeneousGraphs` `#PyTorchGeometric`  
 **Links:** [GitHub](https://github.com/Sinjini15/Nuclear-isotope-GNN) | [arXiv](https://arxiv.org/pdf/2404.02332)
 
 ---
