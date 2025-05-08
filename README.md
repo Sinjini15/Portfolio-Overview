@@ -12,24 +12,31 @@ _Solving real-world problems with AI in GenAI, healthcare, scientific discovery,
 
 ---
 
-### 📄 Resume Screener AI  
+### Resume Screener AI  
 Semantic resume ranking engine using LLM-based embeddings and job description matching.  
 **Tags:** `#LLM` `#NLP` `#SemanticSearch` `#FastAPI`  
-**Links:** [GitHub](https://github.com/Sinjini15/resume-screener-ai) | [Demo Screenshot](link-to-screenshot.png)
+**Links:** [GitHub](https://github.com/Sinjini15/resume-screener-ai)
+
+---
+
+### Segmentation with GANs  
+Data-efficient segmentation pipeline using a fine-tuned StyleGAN model with a custom ToRGB module for stylized mask generation.  
+**Tags:** `#GAN` `#ComputerVision` `#Segmentation` `#Low data`  
+**Links:** [GitHub](https://github.com/Sinjini15/Image-Segementation-with-GANs) 
 
 ---
 
 ### Histopathology Image Classification (Public)
 CNN pipeline for cancer detection on PatchCamelyon histopathology dataset with GradCAM visualizations.  
 **Tags:** `#ComputerVision` `#MedicalAI` `#GradCAM` `#PyTorch`  
-**Links:** [GitHub](https://github.com/sinjini15/histopathology-cnn) | [Screenshot](link-to-screenshot.png)
+**Links:** [GitHub](https://github.com/sinjini15/histopathology-cnn) 
 
 ---
 
 ### Local LLM-based RAG System (Public)
 Built a lightweight Retrieval-Augmented Generation system with local LLMs for document-based Q&A.  
 **Tags:** `#RAG` `#LLM` `#FAISS` `#LangChain`  
-**Links:** [GitHub](https://github.com/Sinjini15/local-llm-rag-pdf-qa) | [Diagram](link-to-architecture.png) | [Example](link-to-example-query.png)
+**Links:** [GitHub](https://github.com/Sinjini15/local-llm-rag-pdf-qa) 
 
 ---
 
